@@ -1,4 +1,4 @@
-# mygroceryshop
+# My GroceryShop
 
 This app is a School project
 simple groceryList in Java as a Native Android Application
