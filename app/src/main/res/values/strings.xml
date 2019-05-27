@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My GroceryShop</string>
+    <string name="add">+</string>
+    <string name="zero">0</string>
+    <string name="add_to_buy">Add to buy</string>
+    <string name="this_app_is_made_as_a_school_project_mobile_app_dev_stockholm_tekniska_institut_created_by_sano_gharzani_how_to_use_type_in_what_you_want_to_bur_amount_and_add_it_to_your_list_swipe_to_delete_the_item">This app is made as a school project. Mobile App Dev. Stockholm Tekniska Institut Created by: Sano Gharzani How to use: Type in what you want to bur, amount and add it to your list. Swipe to delete the item</string>
+</resources>
